@@ -1,0 +1,22 @@
+Best Episode: 29937,  Tile: 2048,  Highest Score: 25888,  Max Tile 512: 7013,  Max Tile 1024: 1342,  Max Tile 2048: 16
+Model 1,  Episode: 29937, Training Score: 25888
+Episode: 94,  Tile: 2048,  Highest Score: 27940,  512 tile: 206,  1024 tile: 199, 2048 Tile: 8
+Model 2,  Episode: 28145, Training Score: 25764
+Episode: 22,  Tile: 2048,  Highest Score: 30456,  512 tile: 212,  1024 tile: 205, 2048 Tile: 7
+Model 3,  Episode: 29374, Training Score: 25448
+Episode: 188,  Tile: 2048,  Highest Score: 27312,  512 tile: 235,  1024 tile: 166, 2048 Tile: 10
+Model 4,  Episode: 28454, Training Score: 25208
+Episode: 322,  Tile: 2048,  Highest Score: 29716,  512 tile: 212,  1024 tile: 172, 2048 Tile: 13
+Model 5,  Episode: 28658, Training Score: 24928
+Episode: 146,  Tile: 2048,  Highest Score: 28144,  512 tile: 217,  1024 tile: 181, 2048 Tile: 9
+Model 6,  Episode: 28710, Training Score: 23508
+Episode: 2,  Tile: 2048,  Highest Score: 31172,  512 tile: 209,  1024 tile: 205, 2048 Tile: 7
+Model 7,  Episode: 26742, Training Score: 23500
+Episode: 467,  Tile: 2048,  Highest Score: 27976,  512 tile: 242,  1024 tile: 159, 2048 Tile: 14
+Model 1,  Episode: 94,  Tile: 2048,  Score: 27940,  Max Tile 512: 206,  Max Tile 1024: 199,  Max Tile 2048: 8
+Model 2,  Episode: 22,  Tile: 2048,  Score: 30456,  Max Tile 512: 212,  Max Tile 1024: 205,  Max Tile 2048: 7
+Model 3,  Episode: 188,  Tile: 2048,  Score: 27312,  Max Tile 512: 235,  Max Tile 1024: 166,  Max Tile 2048: 10
+Model 4,  Episode: 322,  Tile: 2048,  Score: 29716,  Max Tile 512: 212,  Max Tile 1024: 172,  Max Tile 2048: 13
+Model 5,  Episode: 146,  Tile: 2048,  Score: 28144,  Max Tile 512: 217,  Max Tile 1024: 181,  Max Tile 2048: 9
+Model 6,  Episode: 2,  Tile: 2048,  Score: 31172,  Max Tile 512: 209,  Max Tile 1024: 205,  Max Tile 2048: 7
+Model 7,  Episode: 467,  Tile: 2048,  Score: 27976,  Max Tile 512: 242,  Max Tile 1024: 159,  Max Tile 2048: 14
