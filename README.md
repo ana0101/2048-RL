@@ -14,7 +14,7 @@ This repository contains a team project that implements reinforcement learning (
 
 ---
 
-## Prequisites
+## Prerequisites
 
 To run this project you need the following:
 
