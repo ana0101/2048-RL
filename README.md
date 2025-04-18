@@ -1,6 +1,6 @@
 # 2048 with Reinforcement Learning
 
-This repository contains a team project that implements reinforcement learning (RL) algorithms to play the game 2048. 
+This repository contains a team project that implements reinforcement learning (RL) algorithms to play the game 2048
 
 ---
 
@@ -15,7 +15,14 @@ This repository contains a team project that implements reinforcement learning (
 ---
 
 ## Prequisites
+
 To run this project you need the following:
 
 - **Python**: Version 3.12.8
 - **Required Libraries**: Install the dependencies in `requirements.txt`
+
+---
+
+## Documentation
+
+More information about the project is in the documentation `2048_RL.pdf`
